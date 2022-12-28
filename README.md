@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josia-santoso
-- 👀 I’m interested in Front-End Engineering
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science in Binus University
 - 📫 How to reach me https://www.linkedin.com/in/josia-santoso-js180602/
 
